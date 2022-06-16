@@ -5,6 +5,10 @@
 Task list developed with ReactJS with data persistence.
 
 Site: https://reactjs-to-do-list00.netlify.app/
+<br>
+<br>
+
+
 
 ## Features
 
@@ -27,7 +31,9 @@ Site: https://reactjs-to-do-list00.netlify.app/
 - ReactJS
 - Styled Components
 
-# Author
+<br>
+
+### Author
 
 Nathan Stabille
 
