@@ -4,6 +4,8 @@
 
 Task list developed with ReactJS with data persistence.
 
+Site: https://reactjs-to-do-list00.netlify.app/
+
 ## Features
 
 - Add/remove tasks
@@ -20,8 +22,6 @@ Task list developed with ReactJS with data persistence.
 <br>
 
 # Tecnologias utilizadas
-
-## Front end
 
 - JS
 - ReactJS
