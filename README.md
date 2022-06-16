@@ -15,8 +15,8 @@ Site: https://reactjs-to-do-list00.netlify.app/
 
 <br>
 <div style= "display: flex">
-<img style="border: solid 1px; margin: 10px;" src="./public/github/to-do-list-01.gif">
-<img style="border: solid 1px; margin: 10px" src="./public/github/to-do-list-02.gif">
+<img style="border: solid 1px; margin: 10px; max-width: 700px max-height: 500px" src="./public/github/to-do-list-01.gif">
+<img style="border: solid 1px; margin: 10px; width: 500px" src="./public/github/to-do-list-02.gif">
 </div>
 <br>
 <br>
