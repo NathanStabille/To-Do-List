@@ -25,7 +25,7 @@ Site: https://reactjs-to-do-list00.netlify.app/
 <br>
 <br>
 
-# Tecnologias utilizadas
+# Tech Stack
 
 - JS
 - ReactJS
